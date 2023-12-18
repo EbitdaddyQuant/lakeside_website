@@ -62486,7 +62486,7 @@ return A.dD(s,A.iZ(A.dD(s,new A.bw(B.zX,A.e2(A.a([A.dD(s,A.qQ(s,A.iZ(A.dD(s,B.y3
 A.a1l.prototype={
 $0(){var s=null,r=this.a.a9(t.Pu)
 r.toString
-return r.f.AN(A.a7F(s,s,s,A.P(B.c.aY(127.5),0,0,0),s,B.au,s,B.Nf,B.fJ,B.bQ,s,s,s,s,s,s,s,s,s))},
+return r.f.AN(A.a7F(s,s,s,A.P(B.c.aY(127.5),0,0,0),s,B.au,s,B.Ne,B.fJ,B.bQ,s,s,s,s,s,s,s,s,s))},
 $S:0}
 A.jc.prototype={
 P(a){var s=this,r=$.ae().b5()
@@ -62505,7 +62505,7 @@ return s<600?this.Vk():this.RF()},
 Vk(){var s=null,r=this.d
 return A.dD(s,new A.bw(B.k0,A.e2(A.a([A.Rf("assets/images/logo.png",s,80),new A.nz(new A.a1y(),new A.a1z(),s,t.iX)],t.p),B.Q,B.pq,B.X),s),s,s,B.wF,140,s,s,r)},
 RF(){var s=this,r=s.d,q=t.p
-return A.hm(A.e2(A.a([new A.bw(B.k0,A.e2(A.a([A.Rf("assets/images/logo.png",80,null),new A.EA(B.Fo,r>900,null)],q),B.Q,B.U,B.X),null),A.e2(A.a([A.Ya(B.vz,new A.a1p(s)),B.vA,A.Ya(B.vD,new A.a1q(s)),B.vA,A.Ya(B.vC,new A.a1r(s))],q),B.Q,B.U,B.X)],q),B.Q,B.pq,B.X),140,r)}}
+return A.hm(A.e2(A.a([new A.bw(B.k0,A.e2(A.a([A.Rf("assets/images/logo.png",80,null),new A.EA(B.Fn,r>900,null)],q),B.Q,B.U,B.X),null),A.e2(A.a([A.Ya(B.vz,new A.a1p(s)),B.vA,A.Ya(B.vD,new A.a1q(s)),B.vA,A.Ya(B.vC,new A.a1r(s))],q),B.Q,B.U,B.X)],q),B.Q,B.pq,B.X),140,r)}}
 A.a1z.prototype={
 $1(a){A.a5O().$1("Selected: "+a)},
 $S:100}
@@ -62571,19 +62571,19 @@ P(a){var s=A.c6(a,null,t.w).w.a.a
 this.d=s
 return s<=600?this.Uv():this.Uu()},
 Uv(){var s=null,r=A.dD(s,s,s,s,B.dv,s,s,s,s),q=this.d*0.9,p=t.p
-return A.W_(A.o3(B.bl,A.a([r,A.iZ(A.Xm(A.mI(A.a([B.dO,new A.bw(B.zQ,A.mI(A.a([A.hm(A.mI(A.a([A.hm(A.Rf("assets/images/mockup_1.png",300,s),s,q),B.HQ,B.N3,B.Nd,B.vB,A.qQ(s,B.Gm,B.aM,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a2c(this),s,s,s,s,s,s),B.vl],p),B.dB,B.U),s,q)],p),B.Q,B.pp),s)],p),B.Q,B.U),s),s,s)],p),B.c3))},
+return A.W_(A.o3(B.bl,A.a([r,A.iZ(A.Xm(A.mI(A.a([B.dO,new A.bw(B.zQ,A.mI(A.a([A.hm(A.mI(A.a([A.hm(A.Rf("assets/images/mockup_1.png",300,s),s,q),B.HQ,B.N3,B.Nc,B.vB,A.qQ(s,B.Gm,B.aM,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a2c(this),s,s,s,s,s,s),B.vl],p),B.dB,B.U),s,q)],p),B.Q,B.pp),s)],p),B.Q,B.U),s),s,s)],p),B.c3))},
 Uu(){var s,r,q,p=this,o=null,n=A.dD(o,o,o,o,B.dv,o,o,o,o),m=p.d
-m=A.a7o(o,A.dD(o,o,o,o,new A.ct(o,o,o,o,A.a([new A.fS(50,B.fa,A.P(B.c.aY(127.5),116,154,229),B.h,200)],t.sq),o,B.fd),100,o,o,100),o,o,m*0.625,o,400,o)
+m=A.a7o(o,A.dD(o,o,o,o,new A.ct(o,o,o,o,A.a([new A.fS(10,B.fa,A.P(B.c.aY(127.5),116,154,229),B.h,200)],t.sq),o,B.fd),100,o,o,100),o,o,m*0.625,o,400,o)
 s=p.d
 r=t.p
-s=A.hm(A.mI(A.a([B.Fn,new A.bw(B.zM,new A.jc("YOUR NEW FINANCIAL ADVISOR",B.LD,B.AX,o),o),new A.bw(B.bq,A.e2(A.a([B.Nc,new A.jc("debt repayment strategy",B.ak,B.cH,o),B.vy],r),B.Q,B.U,B.X),o),B.Fm,new A.bw(B.bq,A.e2(A.a([B.Ne,new A.jc(" tailored advices ",B.ak,B.cH,o),B.Ni],r),B.Q,B.U,B.X),o),new A.bw(B.bq,A.e2(A.a([B.Nh,new A.jc("forecast your portfolio",B.ak,B.cH,o),B.vy],r),B.Q,B.U,B.X),o),new A.bw(B.bq,A.e2(A.a([B.N6,new A.jc("Stay on track",B.ak,B.cH,o),B.N5],r),B.Q,B.U,B.X),o),B.Fl,B.HP,B.AT,B.vB,A.qQ(o,A.e2(A.a([B.pN,A.Y8("lakeside.software.dev@gmail.com",o)],r),B.Q,B.U,B.X),B.aM,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.a2b(p),o,o,o,o,o,o)],r),B.dB,B.U),o,s*0.9*0.6)
+s=A.hm(A.mI(A.a([B.Fo,new A.bw(B.zM,new A.jc("YOUR NEW FINANCIAL ADVISOR",B.LD,B.AX,o),o),new A.bw(B.bq,A.e2(A.a([B.Nb,new A.jc("debt repayment strategy",B.ak,B.cH,o),B.vy],r),B.Q,B.U,B.X),o),B.Fm,new A.bw(B.bq,A.e2(A.a([B.Nd,new A.jc(" tailored advices ",B.ak,B.cH,o),B.Ni],r),B.Q,B.U,B.X),o),new A.bw(B.bq,A.e2(A.a([B.Nh,new A.jc("forecast your portfolio",B.ak,B.cH,o),B.vy],r),B.Q,B.U,B.X),o),new A.bw(B.bq,A.e2(A.a([B.N6,new A.jc("Stay on track",B.ak,B.cH,o),B.N5],r),B.Q,B.U,B.X),o),B.Fl,B.HP,B.AT,B.vB,A.qQ(o,A.e2(A.a([B.pN,A.Y8("lakeside.software.dev@gmail.com",o)],r),B.Q,B.U,B.X),B.aM,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.a2b(p),o,o,o,o,o,o)],r),B.dB,B.U),o,s*0.9*0.6)
 q=p.d
 return A.W_(A.o3(B.bl,A.a([n,m,A.iZ(A.Xm(A.mI(A.a([B.dO,new A.bw(B.zO,A.e2(A.a([s,A.hm(A.Rf("assets/images/mockup_1.png",450,o),o,q*0.9*0.4)],r),B.Q,B.pp,B.X),o),B.vl],r),B.Q,B.U),o),o,o)],r),B.c3))},
 Cw(a,b){var s,r=null
 A.Ns(new A.Nj(b))
 s=a.a9(t.Pu)
 s.toString
-s.f.AN(A.a7F(r,r,r,A.P(B.c.aY(127.5),0,0,0),r,B.au,r,B.N8,B.fJ,B.bQ,r,r,r,r,r,r,r,r,r))}}
+s.f.AN(A.a7F(r,r,r,A.P(B.c.aY(127.5),0,0,0),r,B.au,r,B.N7,B.fJ,B.bQ,r,r,r,r,r,r,r,r,r))}}
 A.a2c.prototype={
 $0(){var s=this.a,r=s.c
 r.toString
@@ -62598,7 +62598,7 @@ A.kw.prototype={
 ae(){return new A.FU(B.l)}}
 A.FU.prototype={
 P(a){var s=null,r=t.p
-return A.W_(A.o3(B.bl,A.a([A.dD(s,s,s,s,B.dv,s,s,s,s),A.iZ(A.mI(A.a([B.dO,B.Nj,A.Ya(B.Na,new A.a0d(a))],r),B.Q,B.U),s,s)],r),B.c3))}}
+return A.W_(A.o3(B.bl,A.a([A.dD(s,s,s,s,B.dv,s,s,s,s),A.iZ(A.mI(A.a([B.dO,B.Nj,A.Ya(B.N9,new A.a0d(a))],r),B.Q,B.U),s,s)],r),B.c3))}}
 A.a0d.prototype={
 $0(){return A.eS(this.a,!1).dQ()},
 $S:0}
@@ -66382,24 +66382,24 @@ B.pL=new A.C1(0,"portrait")
 B.pM=new A.C1(1,"landscape")
 B.Fk=new A.t3(null)
 B.b6=new A.Ew(1,"down")
-B.Nb=new A.bC("\u2022 Prepare for retirement.",null,B.ak,null,null)
-B.CD=A.a(s([B.Nb]),t.p)
+B.Na=new A.bC("\u2022 Prepare for retirement.",null,B.ak,null,null)
+B.CD=A.a(s([B.Na]),t.p)
 B.Gn=new A.lB(B.ae,B.U,B.X,B.Q,null,B.b6,null,B.CD,null)
 B.Fl=new A.bw(B.bq,B.Gn,null)
-B.Ng=new A.bC("\u2022 Learn more about the world of finance and investing,",null,B.ak,null,null)
-B.BX=A.a(s([B.Ng]),t.p)
+B.Nf=new A.bC("\u2022 Learn more about the world of finance and investing,",null,B.ak,null,null)
+B.BX=A.a(s([B.Nf]),t.p)
 B.Gl=new A.lB(B.ae,B.U,B.X,B.Q,null,B.b6,null,B.BX,null)
 B.Fm=new A.bw(B.bq,B.Gl,null)
-B.ML=new A.i(!0,null,null,"Body",null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.N7=new A.bC("Meet your",null,B.ML,null,null)
-B.Fn=new A.bw(B.bq,B.N7,null)
 B.zL=new A.aI(0,0,5,0)
 B.Ah=new A.kT(57744)
 B.An=new A.n4(B.Ah,14,null)
 B.pN=new A.bw(B.zL,B.An,null)
 B.i8=new A.i(!0,null,null,"Header",null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.N4=new A.bC("LakeSide Software Dev.",null,B.i8,null,null)
-B.Fo=new A.bw(B.k1,B.N4,null)
+B.Fn=new A.bw(B.k1,B.N4,null)
+B.ML=new A.i(!0,null,null,"Body",null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Ng=new A.bC("Say hello to",null,B.ML,null,null)
+B.Fo=new A.bw(B.bq,B.Ng,null)
 B.aB=new A.Co(0,"fill")
 B.W=new A.Co(1,"stroke")
 B.Fp=new A.jy(1/0)
@@ -66480,8 +66480,8 @@ B.et=new A.nN(0,"pop")
 B.d7=new A.nN(1,"doNotPop")
 B.uz=new A.nN(2,"bubble")
 B.hN=new A.fu(null,null)
-B.N9=new A.bC("Tap to copy our email",null,null,null,null)
-B.B0=A.a(s([B.pN,B.N9]),t.p)
+B.N8=new A.bC("Tap to copy our email",null,null,null,null)
+B.B0=A.a(s([B.pN,B.N8]),t.p)
 B.Gm=new A.lB(B.ae,B.U,B.X,B.Q,null,B.b6,null,B.B0,null)
 B.Go=new A.Dj(null,null)
 B.c2=new A.lD(0,"idle")
@@ -66991,15 +66991,15 @@ B.vy=new A.bC(",",null,B.ak,null,null)
 B.N5=new A.bC(" with dynamic, short-term goals,",null,B.ak,null,null)
 B.N6=new A.bC("\u2022",null,B.ak,null,null)
 B.vx=new A.i(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.N8=new A.bC("Copied to Clipboard",null,B.vx,null,null)
-B.Na=new A.bC("Go Back",null,null,null,null)
-B.Nc=new A.bC("\u2022 Receive a clean, simple to follow, ",null,B.ak,null,null)
+B.N7=new A.bC("Copied to Clipboard",null,B.vx,null,null)
+B.N9=new A.bC("Go Back",null,null,null,null)
+B.Nb=new A.bC("\u2022 Receive a clean, simple to follow, ",null,B.ak,null,null)
 B.vz=new A.bC("Home Page",null,null,null,null)
 B.vA=new A.bC("|",null,null,null,null)
-B.Nd=new A.bC("This Website is currently being built, so please do not expect too much from it.\nIt primarly holds our terms and conditions, and a section that explains how to delete your account with all of it's data.",null,null,null,null)
-B.Ne=new A.bC("\u2022 Get",null,B.ak,null,null)
+B.Nc=new A.bC("This Website is currently being built, so please do not expect too much from it.\nIt primarly holds our terms and conditions, and a section that explains how to delete your account with all of it's data.",null,null,null,null)
+B.Nd=new A.bC("\u2022 Get",null,B.ak,null,null)
 B.vB=new A.bC("\n\nFor any requests, please contact us at :",null,null,null,null)
-B.Nf=new A.bC("Function not yet available",null,B.vx,null,null)
+B.Ne=new A.bC("Function not yet available",null,B.vx,null,null)
 B.vC=new A.bC("Delete your account",null,null,null,null)
 B.vD=new A.bC("Terms & Conditions",null,null,null,null)
 B.Nh=new A.bC("\u2022 Analyze, optimize, and ",null,B.ak,null,null)
