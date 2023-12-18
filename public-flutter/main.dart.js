@@ -62573,7 +62573,7 @@ return s<=600?this.Uv():this.Uu()},
 Uv(){var s=null,r=A.dD(s,s,s,s,B.dv,s,s,s,s),q=this.d*0.9,p=t.p
 return A.W_(A.o3(B.bl,A.a([r,A.iZ(A.Xm(A.mI(A.a([B.dO,new A.bw(B.zQ,A.mI(A.a([A.hm(A.mI(A.a([A.hm(A.Rf("assets/images/mockup_1.png",300,s),s,q),B.HQ,B.N3,B.Nc,B.vB,A.qQ(s,B.Gm,B.aM,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a2c(this),s,s,s,s,s,s),B.vl],p),B.dB,B.U),s,q)],p),B.Q,B.pp),s)],p),B.Q,B.U),s),s,s)],p),B.c3))},
 Uu(){var s,r,q,p=this,o=null,n=A.dD(o,o,o,o,B.dv,o,o,o,o),m=p.d
-m=A.a7o(o,A.dD(o,o,o,o,new A.ct(o,o,o,o,A.a([new A.fS(10,B.fa,A.P(B.c.aY(127.5),116,154,229),B.h,200)],t.sq),o,B.fd),100,o,o,100),o,o,m*0.625,o,400,o)
+m=A.a7o(o,A.dD(o,o,o,o,new A.ct(o,o,o,o,A.a([new A.fS(0,B.fa,A.P(B.c.aY(127.5),116,154,229),B.h,400)],t.sq),o,B.fd),100,o,o,100),o,o,m*0.625,o,400,o)
 s=p.d
 r=t.p
 s=A.hm(A.mI(A.a([B.Fo,new A.bw(B.zM,new A.jc("YOUR NEW FINANCIAL ADVISOR",B.LD,B.AX,o),o),new A.bw(B.bq,A.e2(A.a([B.Nb,new A.jc("debt repayment strategy",B.ak,B.cH,o),B.vy],r),B.Q,B.U,B.X),o),B.Fm,new A.bw(B.bq,A.e2(A.a([B.Nd,new A.jc(" tailored advices ",B.ak,B.cH,o),B.Ni],r),B.Q,B.U,B.X),o),new A.bw(B.bq,A.e2(A.a([B.Nh,new A.jc("forecast your portfolio",B.ak,B.cH,o),B.vy],r),B.Q,B.U,B.X),o),new A.bw(B.bq,A.e2(A.a([B.N6,new A.jc("Stay on track",B.ak,B.cH,o),B.N5],r),B.Q,B.U,B.X),o),B.Fl,B.HP,B.AT,B.vB,A.qQ(o,A.e2(A.a([B.pN,A.Y8("lakeside.software.dev@gmail.com",o)],r),B.Q,B.U,B.X),B.aM,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.a2b(p),o,o,o,o,o,o)],r),B.dB,B.U),o,s*0.9*0.6)
